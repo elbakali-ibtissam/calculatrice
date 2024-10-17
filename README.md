@@ -44,18 +44,18 @@ Intègre la capacité de tracer des courbes mathématiques avec Matplotlib, perm
 
 L'application permet de résoudre des équations algébriques en utilisant la bibliothèque sympy, qui prend en charge les opérations symboliques.
    
-    **Interpolation polynomiale :**
+  **Interpolation polynomiale :**
 
 Elle permet de réaliser l'interpolation polynomiale de Lagrange, une technique utilisée pour ajuster un polynôme passant par un ensemble de points donnés.
 ![image](https://github.com/user-attachments/assets/2ffd2d3c-d01e-4212-ad6f-d29ce5fba7c8)
 
-    **Opérations matricielles :**
+  **Opérations matricielles :**
 
 Supporte un large éventail d'opérations sur les matrices comme l'addition, la multiplication, l'inversion et la détermination du déterminant, ainsi que des factorizations avancées (LU et QR).
 
 ![image](https://github.com/user-attachments/assets/ca486cd3-9be1-4a3b-800b-688c6deb2fe6)
 
-    **Intégration numérique :**
+  **Intégration numérique :**
 
 Offre la possibilité de calculer des intégrales définies à l'aide de la méthode de quadrature numérique, où l'utilisateur peut entrer les limites d'intégration et la fonction à intégrer.
 ![image](https://github.com/user-attachments/assets/9cf6a890-1b3d-410b-8d03-ce8cafabbd80)
