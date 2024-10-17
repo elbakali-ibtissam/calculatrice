@@ -43,6 +43,7 @@ Intègre la capacité de tracer des courbes mathématiques avec Matplotlib, perm
    **Résolution d'équations :**
 
 L'application permet de résoudre des équations algébriques en utilisant la bibliothèque sympy, qui prend en charge les opérations symboliques.
+   
     **Interpolation polynomiale :**
 
 Elle permet de réaliser l'interpolation polynomiale de Lagrange, une technique utilisée pour ajuster un polynôme passant par un ensemble de points donnés.
